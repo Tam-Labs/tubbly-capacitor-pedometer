@@ -39,7 +39,6 @@ import com.getcapacitor.PluginMethod;
 import com.getcapacitor.annotation.CapacitorPlugin;
 import com.getcapacitor.annotation.Permission;
 import com.getcapacitor.annotation.PermissionCallback;
-import com.getcapacitor.Plugin.PermissionState;
 
 @CapacitorPlugin(name = "CapacitorPedometer", permissions = {
         // Required for Android 10 (API 29) and above for accessing physical activity

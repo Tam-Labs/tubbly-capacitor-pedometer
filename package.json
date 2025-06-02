@@ -1,6 +1,6 @@
 {
-  "name": "tubbly-capacitor-pedometer",
-  "version": "0.0.4",
+  "name": "@tubbly/tubbly-capacitor-pedometer",
+  "version": "0.0.6",
   "description": "Capacitor pedometer",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -19,10 +19,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/damianlewandowski/capacitor-pedometer.git"
+    "url": "git+https://github.com/Tam-Labs/tubbly-capacitor-pedometer"
   },
   "bugs": {
-    "url": "https://github.com/damianlewandowski/capacitor-pedometer/issues"
+    "url": "https://github.com/Tam-Labs/tubbly-capacitor-pedometer"
   },
   "keywords": [
     "capacitor",
