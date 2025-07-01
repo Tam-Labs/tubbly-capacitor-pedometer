@@ -13,7 +13,7 @@
     "ios/Sources",
     "ios/Tests",
     "Package.swift",
-    "CapacitorPedometer.podspec"
+    "TubblyTubblyCapacitorPedometer.podspec"
   ],
   "author": "Damian Lewandowski",
   "license": "MIT",
